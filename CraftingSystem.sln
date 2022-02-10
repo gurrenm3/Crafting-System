@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftingSystem.Console", "CraftingSystem.Console\CraftingSystem.Console.csproj", "{9C21DA0F-BAB0-4A58-9B2C-752D4AE9BCF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftingSystem.Lib", "CraftingSystem.Lib\CraftingSystem.Lib.csproj", "{962197B4-FC97-439A-A2FF-3139FA2A54FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C21DA0F-BAB0-4A58-9B2C-752D4AE9BCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C21DA0F-BAB0-4A58-9B2C-752D4AE9BCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C21DA0F-BAB0-4A58-9B2C-752D4AE9BCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C21DA0F-BAB0-4A58-9B2C-752D4AE9BCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962197B4-FC97-439A-A2FF-3139FA2A54FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962197B4-FC97-439A-A2FF-3139FA2A54FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962197B4-FC97-439A-A2FF-3139FA2A54FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962197B4-FC97-439A-A2FF-3139FA2A54FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C850D700-08ED-4E8D-B8BB-C5EDA391E0CC}
+	EndGlobalSection
+EndGlobal
